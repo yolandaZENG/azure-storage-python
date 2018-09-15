@@ -2,6 +2,10 @@
 
 > See [BreakingChanges](BreakingChanges.md) for a detailed list of API breaks.
 
+## Version XX.XX.XX:
+- Support for 2018-06-17 REST version. Please see our REST API documentation and blog for information about the related added features.
+- Added support for generating and using blob snapshot SAS tokens.
+
 ## Version 1.4.0:
 
 - azure-storage-nspkg is not installed anymore on Python 3 (PEP420-based namespace package)
